@@ -1,0 +1,76 @@
+body {
+  background-image: url("https://i.pinimg.com/564x/c2/3d/d9/c23dd9fe56f0d7c22f069fd9e65e41cc.jpg");
+}
+
+table {
+  width: 80%;
+}
+
+h1 {
+  color: #f77c2b;
+}
+
+h2 {
+  color: forestgreen;
+}
+
+.corp {
+  color: rgb(187, 187, 37)
+}
+
+h3 {
+  color: #f7432b;
+}
+
+h4 {
+  color: #376af7;
+}
+
+.edu {
+  color: rgb(190, 13, 122)
+}
+
+.menu {
+  text-align: center;
+  background-color: #DFFFF2;
+}
+
+.box {
+  padding: 15px;
+  background-color: #DEECED;
+  border: 1px solid darkcyan;
+}
+
+.profile {
+  width: 80%;
+}
+
+.profilepic {
+  width: 200px;
+  height: 200px;
+}
+
+.gal {
+  width: 200px;
+  height: 200px;
+}
+
+.leftside {
+  width: 20%
+}
+
+.rightside {
+  width: 80%
+}
+
+.leftsidewithyt {
+  width: 30%;
+}
+
+.rightsidewithyt {
+  width: 30%;
+}
+
+.youtube {
+  width: 40%;
+}
